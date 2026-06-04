@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7679","Login & Logout for performance_glitch_user","chromium","2026-04-30","passed","2026-04-30","SauceDemo Login and Logout - Parameterized @smoke","4_sauceLoginLogout.spec.ts","",""
+"","2701","Login & Logout for standard_user","chromium","2026-04-30","passed","2026-04-30","SauceDemo Login and Logout - Parameterized @smoke","4_sauceLoginLogout.spec.ts","",""
+"","26562","Create + Rename + Delete Note","chromium","2026-04-30","passed","2026-04-30","Box Notes - Create Delete Flow @smoke","3_BoxAppNotes.spec.ts","",""
+"","12953","End-to-End Deal Flow @smoke","chromium","2026-04-30","passed","2026-04-30","","1_dealFlow.spec.ts","",""
+"","2731","Login & Logout for visual_user","chromium","2026-04-30","passed","2026-04-30","SauceDemo Login and Logout - Parameterized @smoke","4_sauceLoginLogout.spec.ts","",""
+"","2180","Login & Logout for problem_user","chromium","2026-04-30","passed","2026-04-30","SauceDemo Login and Logout - Parameterized @smoke","4_sauceLoginLogout.spec.ts","",""
+"","2187","End-to-End SauceDemo cart Flow @smoke","chromium","2026-04-30","passed","2026-04-30","","2_saucedemoCart.spec.ts","",""

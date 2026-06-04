@@ -1,0 +1,4 @@
+Selected Property Type: Commercial Land
+Selected transaction Type : Sale
+Selected Cash Type: Cash + Finance
+true

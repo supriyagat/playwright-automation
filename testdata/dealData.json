@@ -1,0 +1,14 @@
+{
+ "url": "https://trainee-web-app.azurewebsites.net/auth/login",
+ "email": "test@test.com",
+ "password": "test",
+ "dealAddress": "NY Street 101",
+ "dealNumber": "NYS33101",
+ "propertyType": "Commercial Land",
+ "transactionType": "Sale",
+ "cashType": "Cash + Finance",
+ "startDate": "04-18-2026",
+ "endDate": "04-30-2026",
+ "agentName": "Agent Angle Gate",
+ "photoPath": "testdata/Adrian BalckFor PWDemo.jpg"
+}
