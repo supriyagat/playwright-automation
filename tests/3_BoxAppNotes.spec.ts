@@ -22,6 +22,8 @@ test.describe('Box Notes - Create Delete Flow @smoke', async() => {
 
     await loginPage.navigate();
 
+
+    
     await loginPage.login("supriya.gat@yash.com", "Qqwerty@1");
 
   });
